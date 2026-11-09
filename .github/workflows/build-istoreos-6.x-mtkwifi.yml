@@ -1,4 +1,4 @@
-name: Build iStore OS 6.x-MTKWIFI
+name: Build iStore OS NSY-G68-MTKWIFI
 
 on:
   repository_dispatch:
